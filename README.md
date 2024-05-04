@@ -14,6 +14,7 @@ _description_
 ## License
 
 [MIT](./LICENSE) License © 2024-PRESENT [Xiaoxi Yun](https://github.com/ycte-nickname)
+[MIT](./LICENSE) License © 2023-PRESENT [Anthony Fu]<https://github.com/antfu>
 
 <!-- Badges -->
 
